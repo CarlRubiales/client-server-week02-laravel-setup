@@ -37,13 +37,13 @@ By the end of this activity, the following objectives were achieved:
 ## 4. Installation Steps
 
 1. **Install PHP** — Download and install PHP from the official site, then add it to your system's PATH.
-   *(Insert screenshot here — e.g., PHP version check in terminal)*
+   
 
 2. **Install Composer** — Download Composer, run the installer, and verify installation with `composer -V`.
-   *(Insert screenshot here)*
+   
 
 3. **Install Git** — Download and install Git, then verify with `git --version`.
-   *(Insert screenshot here)*
+   
 
 4. **Install MySQL** — Install MySQL Server and ensure the MySQL service is running.
    *(Insert screenshot here)*
@@ -52,14 +52,14 @@ By the end of this activity, the following objectives were achieved:
    ```bash
    composer create-project laravel/laravel client-server-week02-laravel-setup
    ```
-   *(Insert screenshot here)*
+  
 
 6. **Run the Laravel development server**:
    ```bash
    cd client-server-week02-laravel-setup
    php artisan serve
    ```
-   *(Insert screenshot here — browser showing the Laravel welcome page)*
+
 
 7. **Initialize Git and push to GitHub**:
    ```bash
@@ -69,7 +69,7 @@ By the end of this activity, the following objectives were achieved:
    git remote add origin <your-repo-url>
    git push -u origin main
    ```
-   *(Insert screenshot here — GitHub repository showing pushed files)*
+   
 
 ## 5. Project Structure
 
@@ -95,8 +95,6 @@ By the end of this activity, the following objectives were achieved:
 3. **MySQL service not starting** — Opened the Services app (or XAMPP/MySQL Workbench control panel), restarted the MySQL service, and checked the error log to resolve a port conflict.
 
 ## 8. Screenshots
-
-*(Insert each screenshot below with a caption describing what it shows)*
 
 **Screenshot 1:** PHP version verification in terminal.
 
