@@ -100,13 +100,12 @@ By the end of this activity, the following objectives were achieved:
 
 **Screenshot 2:** Composer installation confirmation.
 
-**Screenshot 3:** Laravel welcome page running on `localhost:8000`.
+**Screenshot 3:** Laravel welcome page running 
 
 **Screenshot 4:** GitHub repository after successful push.
 
 ## 9. Reflection
 
-*(Write 300–500 words here. Suggested draft below — personalize it with your own experience.)*
 
 This activity gave me a hands-on understanding of how a Laravel development environment is set up from the ground up. Before this, I only understood web development conceptually, but going through each installation step — from PHP, to Composer, to Git, to MySQL — helped me appreciate how many moving parts need to work together before a single line of application code can even run. I learned that Laravel is not just a framework for writing code faster, but a well-organized system that enforces good practices like separation of concerns through its MVC structure, making projects easier to navigate and maintain as they grow.
 
